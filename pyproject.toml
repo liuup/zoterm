@@ -1,0 +1,7 @@
+[project]
+name = "zoterm"
+version = "0.1.0"
+description = "The text-based user interface(TUI) of Zotero"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []

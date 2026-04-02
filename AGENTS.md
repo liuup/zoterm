@@ -1,0 +1,1 @@
+1. This project's python environment is managed by uv. If you need to run the code, you need to follow the uv command's best practice.
