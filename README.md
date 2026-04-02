@@ -2,6 +2,10 @@
 
 Read-only Zotero TUI built with Python, `uv`, and the local Zotero API.
 
+![zoterm_tui](./images/zoterm_tui.png)
+
+
+
 ## Run
 
 ```bash
